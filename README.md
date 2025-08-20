@@ -17,6 +17,7 @@ This project uses the **Northwind database** in MySQL to answer 10 business ques
 ## Tools Used
 - MySQL Workbench
 - Northwind Database
+  
 **Top 10 Customers by Revenue**  
 ![Top Customers](images/Top%20Customers.png)  
 
