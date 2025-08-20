@@ -17,3 +17,14 @@ This project uses the **Northwind database** in MySQL to answer 10 business ques
 ## Tools Used
 - MySQL Workbench
 - Northwind Database
+**Top 10 Customers by Revenue**  
+![Top Customers](images/Top%20Customers.png)  
+
+**Monthly Sales Trend**  
+![Monthly Sales](images/Monthly%20Sales%20Trend.png)  
+
+**Employee Sales Performance**  
+![Employee Sales](images/Employee%20Sales%20Performance.png)  
+
+**Customer Order Frequency**  
+![Customer Orders](images/Customer%20Order%20Frequency%20.png)  
